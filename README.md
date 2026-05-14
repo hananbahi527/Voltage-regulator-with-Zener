@@ -16,6 +16,7 @@ This project demonstrates a simple yet effective **DC Voltage Regulator** circui
 The circuit follows a classic linear power supply architecture:
 **1. Transformer** ➔ **2. Bridge Rectifier** ➔ **3. Filter Capacitor** ➔ **4. Zener Regulator**
 
+![Voltage Regulator with Zener Diagram](Voltage%20regulator%20with%20Zener%20p.jpeg)
 
 
 ---
@@ -32,7 +33,7 @@ The circuit follows a classic linear power supply architecture:
 | **LED Resistor** | R2 | 330Ω Current Limiter for the indicator LED. |
 | **Indicator LED** | D6 | Green LED to signal output power. |
 
-![Voltage Regulator with Zener Diagram](Voltage%20regulator%20with%20Zener%20p.jpeg)
+
 
 ---
 
