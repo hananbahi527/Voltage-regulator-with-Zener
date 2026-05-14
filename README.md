@@ -16,8 +16,7 @@ This project demonstrates a simple yet effective **DC Voltage Regulator** circui
 The circuit follows a classic linear power supply architecture:
 **1. Transformer** ➔ **2. Bridge Rectifier** ➔ **3. Filter Capacitor** ➔ **4. Zener Regulator**
 
-> [!NOTE]
-> *(Insert your circuit image here by uploading it to your repo and using: `![Circuit](image-path.png)`)*
+
 
 ---
 
