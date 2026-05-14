@@ -21,7 +21,7 @@ The circuit follows a classic linear power supply architecture:
 
 ---
 
-## 🛠 Components List
+##  Components List
 
 | Component | Identifier | Description |
 | :--- | :--- | :--- |
